@@ -12,21 +12,12 @@ All Dependacies Listed Below: -
 
 
 Description Of Each Command: -
-
 speech_recognition: This is used for speech recognition functionality.
-
 pyttsx3: This is used for text-to-speech functionality.
-
 pywhatkit: This is used for playing songs on YouTube.
-
 datetime: This is used for getting the current time.
-
 wikipedia: This is used for fetching information from Wikipedia.
-
 pyjokes: This is used for generating jokes.
-
 webbrowser: This is used for opening web URLs in a browser.
-
 winshell: This is used for emptying the recycle bin.
-
 sr: This is an alias for speech_recognition, which is used for speech recognition functionality.
