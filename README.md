@@ -12,6 +12,7 @@ All Dependacies Listed Below: -
 
 
 Description Of Each Command: -
+
 speech_recognition: This is used for speech recognition functionality.
 
 pyttsx3: This is used for text-to-speech functionality.
